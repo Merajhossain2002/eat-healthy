@@ -1,0 +1,65 @@
+body {
+  width: 1440px;
+  margin: 0;
+}
+.skip-diet {
+  display: flex;
+}
+.gradient-text {
+  background-color: orange;
+  background-image: linear-gradient(88.33deg, #fba24f -7.64%, #ff1e1e 145.94%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: "Montserrat";
+  font-weight: 700;
+  font-size: 60px;
+}
+.header-text {
+  font-family: "Montserrat";
+  font-weight: 700;
+  font-size: 60px;
+  line-height: 20px;
+  margin-left: 100px;
+}
+.top-margin {
+  margin-top: 260px;
+}
+.slogan {
+  font-family: "Montserrat";
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  margin-bottom: 100px;
+  margin-left: 100px;
+}
+.order-btn {
+  text-decoration: none;
+  font-size: 24px;
+  color: white;
+  background: linear-gradient(88.33deg, #fba24f -7.64%, #ff1e1e 145.94%);
+  width: 192px;
+  height: 68px;
+  padding: 24px 32px;
+  border-radius: 100px;
+  margin-left: 100px;
+}
+.hero-img {
+  position: absolute;
+  width: 792px;
+  height: 843.96px;
+  left: 520px;
+  top: -43px;
+}
+.hero-background {
+  position: absolute;
+  width: 680px;
+  height: 680px;
+  background-image: url(images/shapes/hero-background.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  left: 630px;
+  top: 150px;
+  margin-right: 50px;
+}
